@@ -1,6 +1,7 @@
 # Study Notion
 
 Study Notion is an ED Tech (Education Technology) web application developed using the MERN stack.
+Guide Website : https://studynotion-master.vercel.app/courses/6491cc1343b57f557be05857
 
 ## Note
 
